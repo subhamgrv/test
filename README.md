@@ -1,2 +1,1 @@
-# test
-to learn about github
+To Learn about the GitHub
